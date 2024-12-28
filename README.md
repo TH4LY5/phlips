@@ -1,5 +1,4 @@
-# Criando um README.md mais elaborado para o projeto de teste Philips
-elaborate_philips_readme_content = """
+
 # Projeto de Cadastro de Clientes - Philips 🏥  
 
 Este projeto foi desenvolvido como parte de um teste técnico para a Philips. Ele consiste em uma aplicação backend para gerenciamento de clientes, implementando as operações CRUD (Create, Read, Update, Delete). A aplicação utiliza **Spring Framework** e **PostgreSQL** para fornecer uma solução robusta, eficiente e escalável.
